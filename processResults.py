@@ -46,7 +46,7 @@ def processResults(result, emotion, orig_shape, img, color = (255,0,0)):
                             y*(faceRectangle['top'] + faceRectangle['height'])/yo),
                        color = color, thickness = 2 )
         
-        if max_currEmotion!=rnd_emotion:
+        if max_currEmotion!=emotion:
             cv2.line( img, (x*faceRectangle['left']/xo,y*faceRectangle['top']/yo),
                            (x*(faceRectangle['left']+faceRectangle['width'])/xo, 
                             y*(faceRectangle['top'] + faceRectangle['height'])/yo), 
