@@ -6,7 +6,10 @@ A very, very, very simple game using [OpenCV](http://opencv-python-tutroals.read
 I'm in a hurry, the game is still full of bugs, so check directly the IPython notebook for details:  
 [Simon Says Emotions Game!](https://github.com/ricardodeazambuja/Simon-Says-Game---Emotions-API/blob/master/Simon%20Says%20Emotions%20Game.ipynb)  
   
-If you don't have [Jupyter](http://jupyter.org/) installed, just copy and paste the code from the first two cells into a normal text file and run it using python command line.  
+## If you don't have [Jupyter](http://jupyter.org/) installed, just execute: 
+```
+python simon_says_game.py  
+```
 
 I started thinking about this game after reading this:  
 [Raspberry PI robot that reads your emotions](http://hackaday.com/2016/11/17/raspberry-pi-robot-that-reads-your-emotions/)
