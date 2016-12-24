@@ -12,4 +12,7 @@ python simon_says_game.py
 ```
 
 I started thinking about this game after reading this:  
-[Raspberry PI robot that reads your emotions](http://hackaday.com/2016/11/17/raspberry-pi-robot-that-reads-your-emotions/)
+[Raspberry PI robot that reads your emotions](http://hackaday.com/2016/11/17/raspberry-pi-robot-that-reads-your-emotions/)  
+  
+And now I'm in HaD too!  
+[SIMON SAYS SMILE, HUMAN!](http://hackaday.com/2016/12/24/simon-says-smile-human/)
