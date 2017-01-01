@@ -10,6 +10,10 @@ I'm in a hurry, the game is still full of bugs, so check directly the IPython no
 ```
 python simon_says_game.py  
 ```
+I've added the source code from my repositories:  
+  - [Using IPython and a webcam to use the Emotion Analysis from MS Cognitive services](https://github.com/ricardodeazambuja/MSCogServ-Emotion-Webcam)
+  - [Converting from Matplotlib figures to OpenCV](https://github.com/ricardodeazambuja/matplotlib2opencv)
+  - [Converting from OpenCV to the format necessary to send the image through HTTP to MS Cognitive Services](https://github.com/ricardodeazambuja/Webcam2HTTP)
 
 I started thinking about this game after reading this:  
 [Raspberry PI robot that reads your emotions](http://hackaday.com/2016/11/17/raspberry-pi-robot-that-reads-your-emotions/)  
