@@ -5,7 +5,7 @@
 import time 
 import requests
 
-def processRequest( json, data, headers, params, _key, _url = 'https://api.projectoxford.ai/emotion/v1.0/recognize', _maxNumRetries = 10):
+def processRequest( json, data, headers, params, _key):
 
     """
     Helper function to process the request to Project Oxford
@@ -16,6 +16,10 @@ def processRequest( json, data, headers, params, _key, _url = 'https://api.proje
     headers: Used to pass the key information and the data type request
     """
 
+    _url = 'https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize'
+    
+    _maxNumRetries = 10
+    
     retries = 0
     result = None
 

@@ -344,7 +344,7 @@ class SimonSaysEmotionsGame(object):
 
             else:
                 result = processRequest(None, self.img, self.headers, None, self.key)
-                if len(result):
+                if result != None:
                     self.team1_data.append([result,self.rnd_emotion,self.local_shape])
                     self.img_changed_1 = True
                     self.img_changed = True
