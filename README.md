@@ -20,3 +20,5 @@ I started thinking about this game after reading this:
   
 And now I'm in HaD too!  
 [SIMON SAYS SMILE, HUMAN!](http://hackaday.com/2016/12/24/simon-says-smile-human/)
+
+http://ricardodeazambuja.com/
